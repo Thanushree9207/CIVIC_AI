@@ -1,0 +1,6 @@
+{
+  "name": "CivicAi",
+  "description": "AI-Powered Grievance Intelligence and Accountability Platform for citizen complaint understanding, dynamic priority scoring, automated routing, SLA monitoring, duplicate detection, and verified resolutions.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
